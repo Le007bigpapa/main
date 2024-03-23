@@ -17,7 +17,7 @@ Les cases:
 
 COMPILATION:
 ***Il faut que vous soyer dans le directory PC. Donc faites cd PC si ça ne marche pas
-g++ .\main.cpp .\include\serial\SerialPort.cpp .\src\map.cpp .\src\cells_code\cell.cpp .\src\cells_code\activeCell.cpp .\src\cells_code\intersectionCell.cpp .\src\cells_code\gameCell.cpp .\src\minigames_code\game_resistance.cpp 
+g++ .\main.cpp .\include\serial\SerialPort.cpp .\src\cells_code\map.cpp .\src\cells_code\cell.cpp .\src\cells_code\activeCell.cpp .\src\cells_code\intersectionCell.cpp .\src\cells_code\gameCell.cpp .\src\minigames_code\game_resistance.cpp .\src\minigames_code\game_procedural.cpp .\communication.cpp
 ./a.exe
 
 
