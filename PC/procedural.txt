@@ -1,0 +1,8 @@
+calculez la derivee de f(x)
+utiliser les series de fourrier
+le make file est-il fonctionnele
+utiliser un filtre passe bas
+utilliser un filtre passe haut
+utiliser un filtre passe bande
+faire une simulation monte carlo
+calculez la fonction de transfert
